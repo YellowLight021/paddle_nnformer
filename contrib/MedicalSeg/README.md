@@ -7,7 +7,7 @@ nnFormer: Interleaved Transformer for Volumetric Segmentation(https://arxiv.org/
 到目前为止transformer在计算机视觉上的应用越来越多，并且取得了非常不错的精度。
 本repo介绍一种与常规transfomer不太一样的transformer网络结构用于3d医疗图像分割任务。
 nnFormer（not normal transformer)不仅利用了交叉卷积和自注意操作的结合，还引入了局部和全局的基于体积的自注意机制来学习体积表示。
-此外，nnFormer还提出用跳跃式注意取代U-Net类跳跃式连接中传统的连接/求和操作。
+此外，nnFormer还提出了用跳跃式注意取代U-Net类跳跃式连接中传统的连接/求和操作。
 
 **参考实现**：
 https://github.com/282857341/nnFormer
