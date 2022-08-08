@@ -106,8 +106,8 @@ cd PaddleSeg/contrib/MedicalSeg/
 
 ### 模型验证
 
-除了可以再训练过程中验证模型精度，可以使用val.py脚本进行测试，权重文件可在 链接下载：链接：https://pan.baidu.com/s/1vK4WodIdKrUuTDiq-VEujg 
-提取码：tfsb 
+除了可以再训练过程中验证模型精度，可以使用val.py脚本进行测试，权重文件可在 链接下载：链接：https://pan.baidu.com/s/199fpSbjT39fK-5E132WZoA 
+提取码：8jg0 
 --来自百度网盘超级会员V6的分享
 
 
