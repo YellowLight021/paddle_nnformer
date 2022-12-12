@@ -6,3 +6,4 @@ filelock
 scipy
 prettytable
 sklearn
+paddlepaddle >= 2.2.2
