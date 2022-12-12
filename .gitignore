@@ -112,3 +112,6 @@ venv.bak/
 node_modules/
 package-lock.json
 test_tipc/web/models/
+
+# exclude paddleseg env
+!paddleseg/utils/env
